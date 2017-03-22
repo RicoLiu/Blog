@@ -1,0 +1,2 @@
+# automatic-goggles
+manage blog
