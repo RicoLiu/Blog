@@ -7,3 +7,4 @@
 + [Puppeteer 爬虫](https://github.com/RicoLiu/automatic-goggles/issues/4)
 + [记一个 Javascript 面试问题](https://github.com/RicoLiu/automatic-goggles/issues/5)
 + [前端面试问题](https://github.com/RicoLiu/automatic-goggles/issues/6)
++ [ECMAScript 的新特性](https://github.com/RicoLiu/automatic-goggles/issues/7)
