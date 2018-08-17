@@ -8,3 +8,4 @@
 + [记一个 Javascript 面试问题](https://github.com/RicoLiu/automatic-goggles/issues/5)
 + [前端面试问题](https://github.com/RicoLiu/automatic-goggles/issues/6)
 + [ECMAScript 2016, 2017, 2018 的新特性](https://github.com/RicoLiu/automatic-goggles/issues/7)
++ [Dijkstra's Algorithm](https://github.com/RicoLiu/automatic-goggles/issues/8)
