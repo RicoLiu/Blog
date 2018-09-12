@@ -9,3 +9,4 @@
 + [前端面试问题](https://github.com/RicoLiu/automatic-goggles/issues/6)
 + [ECMAScript 2016, 2017, 2018 的新特性](https://github.com/RicoLiu/automatic-goggles/issues/7)
 + [Dijkstra's Algorithm](https://github.com/RicoLiu/automatic-goggles/issues/8)
++ [理解 JavaScript 中的执行上下文和执行栈](https://github.com/RicoLiu/automatic-goggles/issues/9)
