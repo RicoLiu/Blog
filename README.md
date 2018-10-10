@@ -11,3 +11,4 @@
 + [Dijkstra's Algorithm](https://github.com/RicoLiu/automatic-goggles/issues/8)
 + [理解 JavaScript 中的执行上下文和执行栈](https://github.com/RicoLiu/automatic-goggles/issues/9)
 + [常见的 Git 使用错误以及如何修复](https://github.com/RicoLiu/automatic-goggles/issues/10)
++ [理解 JavaScript 中的闭包](https://github.com/RicoLiu/automatic-goggles/issues/11)
