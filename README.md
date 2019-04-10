@@ -18,3 +18,4 @@
 + [理解 JavaScript 中的闭包](https://github.com/RicoLiu/automatic-goggles/issues/11)
 + [ `el-upload` 组件实现图片压缩上传](https://github.com/RicoLiu/automatic-goggles/issues/12)
 + [ios 10 报错：TypeError: Attempted to assign to readonly property.](https://github.com/RicoLiu/automatic-goggles/issues/13)
++ [Front-end JavaScript Interviews in 2018–19](https://github.com/RicoLiu/automatic-goggles/issues/14)
