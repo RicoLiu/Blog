@@ -20,3 +20,4 @@
 + [ios 10 报错：TypeError: Attempted to assign to readonly property.](https://github.com/RicoLiu/automatic-goggles/issues/13)
 + [Front-end JavaScript Interviews in 2018–19](https://github.com/RicoLiu/automatic-goggles/issues/14)
 + [移动端上传图片旋转问题](https://github.com/RicoLiu/automatic-goggles/issues/15)
++ [vue打包部署在服务器，访问静态资源404](https://github.com/RicoLiu/Blog/issues/16)
