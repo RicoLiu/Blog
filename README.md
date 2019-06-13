@@ -22,3 +22,4 @@
 + [移动端上传图片旋转问题](https://github.com/RicoLiu/automatic-goggles/issues/15)
 + [vue打包部署在服务器，访问静态资源404](https://github.com/RicoLiu/Blog/issues/16)
 + [Viewport argument key "viewport-fit" not recognized and ignored.](https://github.com/RicoLiu/Blog/issues/17)
++ [Vue 路由模式](https://github.com/RicoLiu/Blog/issues/18)
