@@ -23,3 +23,4 @@
 + [vue打包部署在服务器，访问静态资源404](https://github.com/RicoLiu/Blog/issues/16)
 + [Viewport argument key "viewport-fit" not recognized and ignored.](https://github.com/RicoLiu/Blog/issues/17)
 + [Vue 路由模式](https://github.com/RicoLiu/Blog/issues/18)
++ [JavaScript 标记语句](https://github.com/RicoLiu/Blog/issues/19)
