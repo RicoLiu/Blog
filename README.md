@@ -24,3 +24,4 @@
 + [Viewport argument key "viewport-fit" not recognized and ignored.](https://github.com/RicoLiu/Blog/issues/17)
 + [Vue 路由模式](https://github.com/RicoLiu/Blog/issues/18)
 + [JavaScript 标记语句](https://github.com/RicoLiu/Blog/issues/19)
++ [PMP 整体知识结构](https://github.com/RicoLiu/Blog/issues/20)
