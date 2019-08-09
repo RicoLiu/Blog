@@ -25,3 +25,4 @@
 + [Vue 路由模式](https://github.com/RicoLiu/Blog/issues/18)
 + [JavaScript 标记语句](https://github.com/RicoLiu/Blog/issues/19)
 + [PMP 整体知识结构](https://github.com/RicoLiu/Blog/issues/20)
++ [关于 chrome://inspect 白屏](https://github.com/RicoLiu/Blog/issues/21)
