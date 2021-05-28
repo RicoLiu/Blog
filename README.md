@@ -28,3 +28,4 @@
 + [关于 chrome://inspect 白屏](https://github.com/RicoLiu/Blog/issues/21)
 + [格式转化合集](https://github.com/RicoLiu/Blog/issues/22)
 + [MVVM 在 Flutter 中的应用](https://github.com/RicoLiu/Blog/issues/23)
++ [TypeScript 中高效使用类型化的面向对象编程](https://github.com/RicoLiu/Blog/issues/24)
