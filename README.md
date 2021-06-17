@@ -5,6 +5,7 @@
 
 记录工作学习中的点点滴滴
 
++ [判断 JavaScript 数据类型通用方法](https://github.com/RicoLiu/Blog/issues/25)
 + [TypeScript 中高效使用类型化的面向对象编程](https://github.com/RicoLiu/Blog/issues/24)
 + [MVVM 在 Flutter 中的应用](https://github.com/RicoLiu/Blog/issues/23)
 + [格式转化合集](https://github.com/RicoLiu/Blog/issues/22)
